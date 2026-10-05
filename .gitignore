@@ -1,10 +1,47 @@
+# Unity generated folders
 **/[Ll]ibrary/
 **/[Tt]emp/
 **/[Oo]bj/
 **/[Ll]ogs/
+**/[Mm]emoryCaptures/
+**/[Rr]ecordings/
+
+# Build folders
 **/[Bb]uild/
 **/[Bb]uilds/
+
+# User-specific settings
 **/[Uu]ser[Ss]ettings/
+
+# IDE
 **/.vs/
+**/.idea/
 **/*.csproj
 **/*.sln
+**/*.suo
+**/*.user
+**/*.userprefs
+**/*.pidb
+**/*.booproj
+**/*.svd
+
+# OS generated files
+**/.DS_Store
+**/Thumbs.db
+**/Desktop.ini
+
+# Unity crash/temp files
+**/sysinfo.txt
+**/*.tmp
+
+# Upgrade logs
+**/UpgradeLog.htm
+**/UpgradeLog*.htm
+
+# Vuforia generated runtime/cache data
+**/QCAR/
+
+# Keep Unity meta files
+!**/*.meta
+
+**/Assets/Editor/Migration/
